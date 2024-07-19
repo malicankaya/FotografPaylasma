@@ -1,0 +1,1 @@
+This is sample sharing post with picture app. App uses firebase builds such as Authentication, Firestore, Storage. App has login/signup page, automatically redirect to main page if user doesn’t logout.
